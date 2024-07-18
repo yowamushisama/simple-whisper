@@ -5,9 +5,9 @@ This project provides a FastAPI-based service to transcribe audio or video files
 ## Installation
 
 1. Clone the repository:
-2. 
-    git clone https://github.com/yowamushisama/simple-whispere.git
-    cd fastapi-transcription-service
+ 
+2.  git clone https://github.com/yowamushisama/simple-whisper.git
+    cd simple-whisper
 
 
 3. Install the required packages:
